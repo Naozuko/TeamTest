@@ -1,4 +1,4 @@
-**Java Project Task 1 - RPG Text Game** <br>
+**Java Project Task 1 - Fixing and Debugging** <br>
 
 
 
