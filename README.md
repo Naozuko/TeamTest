@@ -4,7 +4,7 @@
 
 
 
-Follow the Tasks in chronological order.  **Do not** access Character.Java till Task 5
+Follow the Tasks in chronological order. The test files are in master branch.  **Do not** access Character.Java till Task 5
 
 **Task 1 - API/Library**: InputHelper.java
 
@@ -17,3 +17,5 @@ Follow the Tasks in chronological order.  **Do not** access Character.Java till 
 **Task 5 - Extension**: Character.Java
 
 **Task 6 - Comprehension**: What will the program do?
+
+Answers are in answer branch
