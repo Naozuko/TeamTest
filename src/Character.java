@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+//Why is this needed?
 public class Character {
     private String name;
     private CharacterClass characterClass;
